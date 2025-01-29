@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "username": "nike",
+  "posts": [
+    {
+      "id": "3556350229391312698",
+      "shortcode": "DFasbD3v4c6",
+      "timestamp": 1738170005,
+      "display_url": "https://instagram.fpnq7-3.fna.fbcdn.net/v/t51.2885-15/475471839_18522795154020081_1522610919988524309_n.jpg?stp=dst-jpg_e15_tt6&_nc_ht=instagram.fpnq7-3.fna.fbcdn.net&_nc_cat=1&_nc_ohc=rvsTom_KJ64Q7kNvgHTY1Uc&_nc_gid=87833902fc2a43ef96446068de62658b&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYBhfsPfkhRxes4-c1ET_OO-rjdltJFKgEluEFTK5d5QPQ&oe=67A06D86&_nc_sid=8b3546",
+      "caption": "“Sport is a part of who I am, but definitely not entirely who I am.” \n—Dina Asher-Smith, 24.7 Sprinter \n\nIntroducing the Nike 24.7 Collection, tailored for all-day comfort.",
+      "likes": 10537,
+      "comments": 80,
+      "is_video": false,
+      "url": "https://www.instagram.com/p/DFasbD3v4c6/",
+      "media_type": "image",
+      "media_items": []
+    },
+    {
+      "id": "3556251018254014450",
+      "shortcode": "DFaV3WTJtfy",
+      "timestamp": 1738159212,
+      "display_url": "https://instagram.fpnq7-3.fna.fbcdn.net/v/t51.2885-15/475728811_18522772693020081_3988577167626021570_n.jpg?stp=dst-jpg_e35_p1080x1080_sh0.08_tt6&_nc_ht=instagram.fpnq7-3.fna.fbcdn.net&_nc_cat=1&_nc_ohc=17ScGaUobqEQ7kNvgHqYhed&_nc_gid=87833902fc2a43ef96446068de62658b&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYAs9TrasVt-t_UxxnU3RVZvwrArEMND9cq6oxNiTu7UPA&oe=67A04C2C&_nc_sid=8b3546",
+      "caption": "Electrify your run.\n\nThe Nike Pegasus Premium is our most responsive Pegasus ever. Lace up, go the distance, and stay energized.⚡️\n\nAvailable January 30th.",
+      "likes": 21599,
+      "comments": 166,
+      "is_video": true,
+      "url": "https://www.instagram.com/p/DFaV3WTJtfy/",
+      "media_type": "video",
+      "media_items": []
+    }
+  ],
+  "scraped_at": "2025-01-29T20:28:49.530Z"
+}
